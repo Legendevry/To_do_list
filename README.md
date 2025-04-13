@@ -45,7 +45,10 @@ Téléchargez `todo-list.exe`, double-cliquez dessus, et la to-do list apparaît
 
 ## ✨ Aperçu
 
-> (Ajoutez ici une capture d'écran si vous le souhaitez)
+<p>
+  <img src="https://github.com/Legendevry/To_do_list/raw/main/assets/Capture1.png" alt="Aperçu de la To-Do List" width="25%" />
+  <img src="https://github.com/Legendevry/To_do_list/raw/main/assets/Capture2.png" alt="Aperçu de la To-Do List" width="50%" />
+</p>
 
 ---
 ## 📬 Contact
