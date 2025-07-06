@@ -23,7 +23,7 @@ Elle s'affiche discrètement dans un coin de l'écran et vous permet de garder v
 ## 📁 Fichiers disponibles
 
 - `script/to_do_list_pc.zip` → Contient **les sources complètes** du projet Godot
-- [to_do_list.exe](https://drive.google.com/file/d/1vqbHxrKU_vxk6G34lmkyw3hmgkZmtCEy/view?usp=sharing) → **Exécutable Windows prêt à l'emploi**
+- [to_do_list.exe](https://drive.google.com/file/d/1v2ONhAFaphvNVeH_-oDS59_7XDVvgY83/view?usp=sharing) → **Exécutable Windows prêt à l'emploi**
 
 ---
 
